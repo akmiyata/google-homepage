@@ -1,0 +1,23 @@
+input {
+    margin: 0px 0px 0px 460px;
+    border-radius: 20px;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
+
+h4 {
+    text-align: center;
+}
+
+img {
+    margin: 100px 0px 0px 475px;
+}
+
+table {
+    margin: 50px 0px 0px 525px;
+}
